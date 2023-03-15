@@ -1,4 +1,4 @@
-![WebLabel](docs/logo/logo.png)
+![WebLabel](docs/logo/main_logo_white.svg)
 # WebLabel
 
 WebLabel is a web application to create, edit and visualize annotations (often called labels or tags) in OpenLABEL format.
