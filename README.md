@@ -1,4 +1,6 @@
 ![WebLabel](docs/logo/main_logo_white.svg)
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="200"/>
+
 # WebLabel
 
 WebLabel is a web application to create, edit and visualize annotations (often called labels or tags) in OpenLABEL format.
