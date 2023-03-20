@@ -1,6 +1,10 @@
-![WebLabel](docs/logo/main_logo_white.svg)
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="200"/>
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 
+![WebLabel1](docs/logo/main_logo_white.svg)
+![WebLabel2](docs/logo/creator_logo_white.svg)
+![WebLabel3](docs/logo/editor_logo_white.svg)
+![WebLabel4](docs/logo/player_logo_white.svg)
+![WebLabel5](docs/logo/manager_logo_white.svg)
 # WebLabel
 
 WebLabel is a web application to create, edit and visualize annotations (often called labels or tags) in OpenLABEL format.
