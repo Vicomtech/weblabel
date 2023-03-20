@@ -1,10 +1,5 @@
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 
-![WebLabel1](docs/logo/main_logo_white.svg)
-![WebLabel2](docs/logo/creator_logo_white.svg)
-![WebLabel3](docs/logo/editor_logo_white.svg)
-![WebLabel4](docs/logo/player_logo_white.svg)
-![WebLabel5](docs/logo/manager_logo_white.svg)
 # WebLabel
 
 WebLabel is a web application to create, edit and visualize annotations (often called labels or tags) in OpenLABEL format.
@@ -36,3 +31,12 @@ WebLabel uses the [VCD NPM package](https://www.npmjs.com/package/vcd-ts).
 Vicomtech created WebLabel in 2020. Developments of WebLabel were supported and funded by the European Commission (EC) Horizon 2020 programme (project [Cloud-LSVA](http://cloud-lsva.eu), grant agreement 688099).
 
 WebLabel was registered on 24/05/2022 at the "Registro de Propiedad Intelectual" nº 01/2022/786.
+
+
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/creator_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/editor_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
