@@ -32,9 +32,9 @@ The application can load JSON files in OpenLABEL format for a wide variety of la
 * 2D/3D points, polylines and polygons
 * Time-events and actions
 * Time-consistent objects (with UID)
-
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/WebLabel-UI.JPG" width="400" style="display: block;  margin-left: auto;   margin-right: auto" />
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/WebLabel-UI.JPG" width="600" style="display: block;  margin-left: auto;   margin-right: auto" />
+</p>
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 
 WebLabel Player is a similar application to WebLabel Editor, but it only allows visualization of already annotated sequences. It is the ideal application for validation of annotation tasks, whether manual or automatic.
