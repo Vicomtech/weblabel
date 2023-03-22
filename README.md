@@ -4,7 +4,7 @@ WebLabel is a web ecosystem for the annotation of multimedia content that consis
 - WebLabel Player, for already annotated multimedia content visualization.
 - WebLabel Editor, for multimedia content annotation tasks (from scratch or correcting already annotated content).
 - WebLabel Manager, for WebLabel user/task managing.
-- WebLabel Creator, for definition of WebLabel annotation tasks .
+- WebLabel Creator, for definition of WebLabel annotation tasks.
 
 WebLabel manages OpenLABEL content using the [Video Content Description (VCD)](https://github.com/Vicomtech/video-content-description-VCD) library.
 
@@ -33,11 +33,13 @@ The application can load JSON files in OpenLABEL format for a wide variety of la
 * Time-events and actions
 * Time-consistent objects (with UID)
 
+<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/WebLabel-UI.JPG" width="400" style="display: block;  margin-left: auto;   margin-right: auto" />
+
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 
-WebLabel Player is a similar application to WebLabel Editor, but . It also 
+WebLabel Player is a similar application to WebLabel Editor, but it only allows visualization of already annotated sequences. It is the ideal application for validation of annotation tasks, whether manual or automatic.
 
-An example of WebLabel Player can be downloaded HERE. It is prepared to load Deutsche Bahn's open dataset.
+An example of WebLabel Player can be downloaded HERE. This release is prepared to load Deutsche Bahn's open dataset that can be found HERE.
 
 
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
