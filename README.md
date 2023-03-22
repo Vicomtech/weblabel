@@ -34,6 +34,7 @@ The application can load JSON files in OpenLABEL format for a wide variety of la
 * Time-consistent objects (with UID)
 <p align="center">
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/WebLabel-UI.JPG" width="600" style="display: block;  margin-left: auto;   margin-right: auto" />
+<em>3D sequence (point cloud + videos) annotation in WebLabel Editor</em>
 </p>
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 
