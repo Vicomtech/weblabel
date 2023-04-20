@@ -62,6 +62,14 @@ Vicomtech created WebLabel in 2020. Developments of WebLabel were supported and 
 
 WebLabel was registered on 24/05/2022 at the "Registro de Propiedad Intelectual" nº 01/2022/786.
 
+## Copyright
+
+Copyright ©️ 2023 Fundación Centro de Tecnologías de Interacción Visual y Comunicaciones Vicomtech
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), for the use, copy and reproduction of the Software alongside  [the dataset](https://doi.org/10.57806/9mv146r0), subject to the following conditions: 
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING OUT OF, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
 
 
 
