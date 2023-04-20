@@ -56,7 +56,7 @@ The output of WebLabel Creator will be a folder with all the files needed for th
 
 ## Use case
 
-An example of WebLabel Player can be downloaded [HERE](https://github.com/Vicomtech/weblabel/releases/). This release is prepared to load Deutsche Bahn's open dataset that can be found [HERE](https://doi.org/10.57806/9mv146r0).
+An example of WebLabel Player can be downloaded [HERE](https://github.com/Vicomtech/weblabel/releases/). This release is prepared to load the open dataset created by German Centre for Rail Traffic Research at the Federal Railway Authority (DZSF), Digitale Schiene Deutschland / DB Netz AG, and FusionSystems GmbH. The dataset can be found [HERE](https://doi.org/10.57806/9mv146r0).
 
 ## Credits
 
