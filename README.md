@@ -42,8 +42,6 @@ The application can load JSON files in OpenLABEL format for a wide variety of la
 
 WebLabel Player is a similar application to WebLabel Editor, but it only allows visualization of already annotated sequences. It is the ideal application for validation of annotation tasks, whether manual or automatic.
 
-An example of WebLabel Player can be downloaded HERE. This release is prepared to load Deutsche Bahn's open dataset that can be found HERE.
-
 
 <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 
@@ -55,6 +53,10 @@ A user, when accessing this dashboard-based application, will be allowed to perf
 
 WebLabel Creator is an ontology-based configuration assistant. The user can load the media (video, image, etc.) that will be labelled in the task and choose the element types to annotate and their attributes. The user can select the relevant properties for the task from the ontology or insert them manually.
 The output of WebLabel Creator will be a folder with all the files needed for the annotation task: multimedia content, the configuration file for the application and the initial OpenLabel file.
+
+## Use case
+
+An example of WebLabel Player can be downloaded HERE. This release is prepared to load Deutsche Bahn's open dataset that can be found [HERE](https://doi.org/10.57806/9mv146r0).
 
 ## Credits
 
