@@ -1,4 +1,7 @@
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_black.svg">
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+</picture>
 
 WebLabel is a web ecosystem for the annotation of multimedia content that consists of 4 main applications:
 - WebLabel Player, for already annotated multimedia content visualization.
@@ -20,8 +23,10 @@ WebLabel supports (loads, create, visualize) labels compliant with ASAM OpenLABE
 
 WebLabel uses the [VCD NPM package](https://www.npmjs.com/package/vcd-ts).
 
-
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/editor_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/editor_logo_black.svg">
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/editor_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+</picture>
 
 WebLabel Editor is a web application to create, edit and visualize annotations (often called labels or tags) in OpenLABEL format.
 
@@ -38,18 +43,27 @@ The application can load JSON files in OpenLABEL format for a wide variety of la
 <p align="center">
 <em>3D sequence (point cloud + videos) annotation in WebLabel Editor</em>
 </p>
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_black.svg">
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/player_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+</picture>
 
 WebLabel Player is a similar application to WebLabel Editor, but it only allows visualization of already annotated sequences. It is the ideal application for validation of annotation tasks, whether manual or automatic.
 
-
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_black.svg">
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+</picture>
 
 WebLabel Manager allows a user to orchestrate annotation and supervising tasks for WebLabel Editor and WebLabel Player. Orchestration means creation, assignment and monitoring its status, as well as managing its results. It also gives access to those who have permissions to the WebLabel Creator tool.
 
 A user, when accessing this dashboard-based application, will be allowed to perform see his or her pending tasks or will depending his or her role in the WebLabel annotation ecosystem.
 
-<img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/creator_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/creator_logo_black.svg">
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/ceator_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+</picture>
 
 WebLabel Creator is an ontology-based configuration assistant. The user can load the media (video, image, etc.) that will be labelled in the task and choose the element types to annotate and their attributes. The user can select the relevant properties for the task from the ontology or insert them manually.
 The output of WebLabel Creator will be a folder with all the files needed for the annotation task: multimedia content, the configuration file for the application and the initial OpenLabel file.
