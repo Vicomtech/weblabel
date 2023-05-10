@@ -62,7 +62,7 @@ A user, when accessing this dashboard-based application, will be allowed to perf
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/creator_logo_black.svg">
-  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/ceator_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/creator_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 </picture>
 
 WebLabel Creator is an ontology-based configuration assistant. The user can load the media (video, image, etc.) that will be labelled in the task and choose the element types to annotate and their attributes. The user can select the relevant properties for the task from the ontology or insert them manually.
