@@ -51,6 +51,8 @@ The application can load JSON files in OpenLABEL format for a wide variety of la
 
 WebLabel Player is a similar application to WebLabel Editor, but it only allows visualization of already annotated sequences. It is the ideal application for validation of annotation tasks, whether manual or automatic.
 
+https://github.com/Vicomtech/weblabel/assets/125459003/d895139a-37ea-454b-8088-64f91df107d1
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_black.svg">
   <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/manager_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
