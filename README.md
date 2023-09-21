@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_black.svg">
-  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_white.svg">
+  <img src="https://raw.githubusercontent.com/Vicomtech/weblabel/main/docs/logo/main_logo_black.svg" width="300" style="display: block;  margin-left: auto;   margin-right: auto" />
 </picture>
 
 WebLabel is a web ecosystem for the annotation of multimedia content that consists of 4 main applications:
