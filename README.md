@@ -74,6 +74,12 @@ An example of WebLabel Player can be downloaded [HERE](https://github.com/Vicomt
 
 https://github.com/Vicomtech/weblabel/assets/125459003/d895139a-37ea-454b-8088-64f91df107d1
 
+## Cite this Project
+
+Urbieta, I., Mujika, A., Piérola, G. et al. WebLabel: OpenLABEL-compliant multi-sensor labelling. Multimed Tools Appl (2023). https://doi.org/10.1007/s11042-023-16664-4
+
+[link](https://link.springer.com/article/10.1007/s11042-023-16664-4)
+
 ## Credits
 
 Vicomtech created WebLabel in 2020. Developments of WebLabel were supported and funded by the European Commission (EC) Horizon 2020 programme (project [Cloud-LSVA](http://cloud-lsva.eu), grant agreement 688099).
