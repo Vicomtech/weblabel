@@ -68,11 +68,14 @@ A user, when accessing this dashboard-based application, will be allowed to perf
 WebLabel Creator is an ontology-based configuration assistant. The user can load the media (video, image, etc.) that will be labelled in the task and choose the element types to annotate and their attributes. The user can select the relevant properties for the task from the ontology or insert them manually.
 The output of WebLabel Creator will be a folder with all the files needed for the annotation task: multimedia content, the configuration file for the application and the initial OpenLabel file.
 
-## Use case
+## Use case OSDaR23
 
 An example of WebLabel Player can be downloaded [HERE](https://github.com/Vicomtech/weblabel/releases/tag/player1.0.0). This release is prepared to load the open dataset created by German Centre for Rail Traffic Research at the Federal Railway Authority (DZSF), Digitale Schiene Deutschland / DB Netz AG, and FusionSystems GmbH. The dataset can be found [HERE](https://doi.org/10.57806/9mv146r0).
 
 https://github.com/Vicomtech/weblabel/assets/125459003/d895139a-37ea-454b-8088-64f91df107d1
+
+## Use case Synergies
+OmegaPRIME files converted to OpenLABEL can be loaded into WebLabel, visualizing dynamic objects and OpenDRIVE files directly in WebLabel. An specific WebLabel version has been set-up as a service in the following [link](https://no-edit.d29gjk8l1b6x8x.amplifyapp.com/). Some sample assets can be found in this repository under the data/Synergies folder, which can be loaded directly in the web service. Please contact mgarcia@vicomtech.org for the required username and password to use the online player service.
 
 ## Cite this Project
 
@@ -93,10 +96,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING OUT OF, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-
-
-
-

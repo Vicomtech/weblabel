@@ -1,0 +1,56 @@
+<?xml version="1.0" standalone="yes"?>
+<OpenDRIVE>
+  <header revMajor="1" revMinor="4" name="Straight Road 3x3" version="1.00"
+          date="2025-09-10T00:00:00" north="0" south="0" east="0" west="0">
+    <geoReference> <![CDATA[+proj=utm +lat_0=37.35429341239328 +lon_0=-122.0859797650754 +k_0=1 +x_0=0 +y_0=0 +datum=WGS84 +geoidgrids=egm96_15.gtx +vunits=m +zone=32 +ellps=GRS80 +units=m +no_defs]]>
+    </geoReference>
+  </header>
+
+  <road name="StraightRoad" length="2000.0" id="1" junction="-1">
+    
+    <planView>
+      <geometry s="0.0" x="0.0" y="0.0" hdg="0.0" length="2000.0">
+        <line/>
+      </geometry>
+    </planView>
+
+    <lanes>
+      <laneSection s="0.0">
+        <left>
+          <!-- Two lanes to the left of center -->
+          <lane id="2" type="driving" level="false">
+            <width sOffset="0.0" a="3.5" b="0.0" c="0.0" d="0.0"/>
+            <roadMark sOffset="0.0" type="broken" weight="standard"
+                      color="white" width="0.13" laneChange="both"/>
+          </lane>
+          <lane id="1" type="driving" level="false">
+            <width sOffset="0.0" a="3.5" b="0.0" c="0.0" d="0.0"/>
+            <roadMark sOffset="0.0" type="broken" weight="standard"
+                      color="white" width="0.13" laneChange="both"/>
+          </lane>
+        </left>
+
+        <center>
+          <lane id="0" type="none" level="false">
+            <roadMark sOffset="0.0" type="solid" weight="standard"
+                      color="white" width="0.13" laneChange="none"/>
+          </lane>
+        </center>
+
+        <right>
+          <!-- Two lanes to the right of center -->
+          <lane id="-1" type="driving" level="false">
+            <width sOffset="0.0" a="3.5" b="0.0" c="0.0" d="0.0"/>
+            <roadMark sOffset="0.0" type="broken" weight="standard"
+                      color="white" width="0.13" laneChange="both"/>
+          </lane>
+          <lane id="-2" type="driving" level="false">
+            <width sOffset="0.0" a="3.5" b="0.0" c="0.0" d="0.0"/>
+            <roadMark sOffset="0.0" type="broken" weight="standard"
+                      color="white" width="0.13" laneChange="both"/>
+          </lane>
+        </right>
+      </laneSection>
+    </lanes>
+  </road>
+</OpenDRIVE>

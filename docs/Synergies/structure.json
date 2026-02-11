@@ -1,0 +1,769 @@
+{
+	"configurations": {
+		"configuration1": {
+			"openlabel": {
+				"contexts": {},
+				"events": {
+					"Follows": {
+						"colors": [
+							"#ff0029"
+						],
+						"event_data": {}
+					},
+					"HardAcceleration": {
+						"colors": [
+							"#377eb8"
+						],
+						"event_data": {}
+					},
+					"HardBrake": {
+						"colors": [
+							"#66a61e"
+						],
+						"event_data": {}
+					},
+					"PedestrianCrossesZebra": {
+						"colors": [
+							"#bebada"
+						],
+						"event_data": {}
+					},
+					"PedestrianCrossesRoad": {
+						"colors": [
+							"#bebada"
+						],
+						"event_data": {}
+					},
+					"NearMissCollision": {
+						"colors": [
+							"#bebada"
+						],
+						"event_data": {}
+					},
+					"PedestrianOnLane": {
+						"colors": [
+							"#8dd3c7"
+						],
+						"event_data": {}
+					}
+				},
+				"objects": {
+					"UNKNOWN": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"OTHER": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"VEHICLE": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"PEDESTRIAN": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"ANIMAL": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"SMALL_CAR": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"COMPACT_CAR": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"CAR": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"LUXURY_CAR": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"DELIVERY_VAN": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"HEAVY_TRUCK": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"SEMITRACTOR": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"SEMITRAILER": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"TRAILER": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"MOTORBIKE": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"BICYCLE": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"BUS": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"TRAM": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"TRAIN": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"WHEELCHAIR": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					},
+					"STANDUP_SCOOTER": {
+						"colors": [],
+						"options": [],
+						"object_data": {
+							"bbox3D": {
+								"dynamic": true,
+								"colors": [
+									"#888888"
+								],
+								"options": [
+									0
+								],
+								"default": [
+									0,
+									0,
+									0,
+									0,
+									0,
+									0,
+									1,
+									1,
+									1
+								],
+								"coordinate_system": "odom",
+								"type": "cuboid",
+								"optional": false
+							}
+						}
+					}
+				},
+				"actions": {
+					"extracted_actions": {
+						"colors": [
+							"#ff0029",
+							"#377eb8",
+							"#66a61e",
+							"#984ea3",
+							"#00d2d5",
+							"#ff7f00",
+							"#af8d00",
+							"#984ea3"
+						],
+						"options": [
+							"ChangingLane",
+							"BrakingHard",
+							"AceleratingHard",
+							"CuttingIn",
+							"Following",
+							"PedestrianCrossingRoad",
+							"PedestrianCrossingZebra",
+							"CuttingOut"
+						],
+						"action_data": {}
+					}
+				},
+				"relations": {
+					"isLocatedIn": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"isNextTo": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasIncomingLane": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasOutgoingLane": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasData": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasEgoData": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasAction": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasEvent": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasObject": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasObjectFrom": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"hasObjectTo": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					},
+					"participatesIn": {
+						"rdf_subjects": {},
+						"rdf_objects": {}
+					}
+				}
+			}
+		}
+	},
+	"tasks": {
+		"task1": {
+			"view": {
+				"layout": 1,
+				"layers": [
+					{
+						"layer_num": 1,
+						"type": "pointcloud",
+						"source": "OpenDRIVE",
+						"overlays": "pointcloud",
+						"coord_system": "odom"
+					}
+				]
+			},
+			"configuration": "configuration1"
+		}
+	},
+	"overlays": {
+		"pointcloud": [
+			{
+				"name": "OpenDrive",
+				"path": "opendrive_metadata:OpenDRIVE_path",
+				"type": "open_drive",
+				"coord_system": "opendrive",
+				"show": true,
+				"draw_order": 3
+			}
+		]
+	},
+	"source_files": {}
+}
